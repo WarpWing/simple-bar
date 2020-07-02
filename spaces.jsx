@@ -1,6 +1,7 @@
 import SpacesDisplay from './lib/components/SpacesDisplay.jsx'
 import { SpacesDisplayStyles } from './lib/styles/Styles.js'
-const refreshFrequency = 1000;
+
+const refreshFrequency = false;
 
 import { parseJson } from './lib/utils.js'
 
