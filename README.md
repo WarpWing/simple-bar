@@ -22,7 +22,7 @@ This project is a Work In Progress so everything is not fully optimized or funct
 Clone this repo to your Übersicht widgets directory with the following command.
 
 ```bash
-$ git clone https://github.com/atidyshirt/simple-bar.git $HOME/Library/Application\ Support/Übersicht/widgets/simple-bar
+$ git clone git@github.com:Jean-Tinland/simple-bar.git $HOME/Library/Application\ Support/Übersicht/widgets/simple-bar
 ```
 
 ## Font
